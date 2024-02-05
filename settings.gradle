@@ -1,0 +1,5 @@
+rootProject.name = 'ms-demo'
+include 'ms-user'
+include 'ms-card'
+include 'ms-common'
+
